@@ -3,8 +3,7 @@
 ## 目標とするプログラム
 これと同じものを、以下の手順で作っていきます。
 
-FirstMission
-https://scratch.mit.edu/projects/68155398/
+[FirstMission](https://scratch.mit.edu/projects/68155398/)
 
 ## 作成するもの
 次の４つのスプライトを作っていきます。
